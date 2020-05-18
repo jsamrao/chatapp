@@ -1,6 +1,6 @@
 # chatapp
 
-TCP Server to Client and Client to Client chat.
+TCP mutithreaded server to client and client to client chat.
 
 Make sure to define PORT and IP in the C++ files.
 
